@@ -1,0 +1,16 @@
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\bin\Debug\net6.0-windows\imageLabellingTool.exe
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\bin\Debug\net6.0-windows\imageLabellingTool.deps.json
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\bin\Debug\net6.0-windows\imageLabellingTool.runtimeconfig.json
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\bin\Debug\net6.0-windows\imageLabellingTool.dll
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\bin\Debug\net6.0-windows\imageLabellingTool.pdb
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\obj\Debug\net6.0-windows\imageLabellingTool.Form1.resources
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\obj\Debug\net6.0-windows\imageLabellingTool.csproj.GenerateResource.cache
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\obj\Debug\net6.0-windows\imageLabellingTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\obj\Debug\net6.0-windows\imageLabellingTool.AssemblyInfoInputs.cache
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\obj\Debug\net6.0-windows\imageLabellingTool.AssemblyInfo.cs
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\obj\Debug\net6.0-windows\imageLabellingTool.csproj.CoreCompileInputs.cache
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\obj\Debug\net6.0-windows\imageLabellingTool.dll
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\obj\Debug\net6.0-windows\refint\imageLabellingTool.dll
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\obj\Debug\net6.0-windows\imageLabellingTool.pdb
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\obj\Debug\net6.0-windows\imageLabellingTool.genruntimeconfig.cache
+C:\Users\66985\source\repos\imageLabellingTool\imageLabellingTool\obj\Debug\net6.0-windows\ref\imageLabellingTool.dll
