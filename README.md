@@ -12,8 +12,8 @@ This is an Image Labeling Tool application built with WinForms in Visual Studio 
 
 ## Screenshot
 
-![App Screenshot]("C:\Users\66985\Pictures\Label image representation.png")
-![App Screenshot]("C:\Users\66985\Pictures\Label Image 2.png")
+![App Screenshot](C:\Users\66985\Pictures\Label image representation.png)
+![App Screenshot](C:\Users\66985\Pictures\Label Image 2.png)
 
 
 
