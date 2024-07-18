@@ -10,6 +10,8 @@ This is an Image Labeling Tool application built with WinForms in Visual Studio 
 - Easy navigation through images.
 - Save and load labeled data.
 
+## Screenshots
+
 
 
 
