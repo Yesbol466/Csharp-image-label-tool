@@ -12,7 +12,7 @@ This is an Image Labeling Tool application built with WinForms in Visual Studio 
 
 ## Screenshots
 
-
+![App Screenshot](image-label-tool-screenshots/Label-imagerepresentaion.png)
 
 
 
